@@ -18,9 +18,9 @@ The goal of this phase is to develop a functional application with basic feature
 
 **Milestone 1.1: Project Setup and Initial Structure (Estimated: 1 Week)**
 
-*   [ ] Initialize Ionic Angular project using the Ionic CLI.
-*   [ ] Set up basic project structure (folders for components, services, pages, etc.).
-*   [ ] Configure TypeScript, ESLint, and Prettier for code quality.
+*   [x] Initialize Ionic Angular project using the Ionic CLI.
+*   [x] Set up basic project structure (folders for components, services, pages, etc.).
+*   [x] Configure TypeScript, ESLint, and Prettier for code quality.
 *   [ ] Create initial UI mockups/wireframes using a tool like Ionic Creator, Figma, or similar.
 *   [ ] Create placeholder pages/components for main features (Item List, Add Item, Shopping List).
 *   [ ] Implement basic navigation between pages.
