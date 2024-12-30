@@ -1,0 +1,7 @@
+{
+  "name": "Pantry Log",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
